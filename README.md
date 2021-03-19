@@ -11,6 +11,7 @@
 - useEffect
 - Ajax
 - redux (reducer, dispatch)
+- 그 외...
 
 ### 개발 현황
 - 0312 : 게시판 형식 페이지 생성, 좋아요 기능 추가
